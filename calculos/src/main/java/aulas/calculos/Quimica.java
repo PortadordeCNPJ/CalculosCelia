@@ -1,7 +1,7 @@
 package aulas.calculos;
 
 public class Quimica {
-
+        //Guilherme de Souza Muller 3C Inf
    
     public String Calculo_de_comparacao_atomos(int massa1, int massa2, int prot1, int prot2, int neut1, int neut2, int eletr1, int eletr2) {
         //fisica Guilherme de S 3C
@@ -28,5 +28,5 @@ public class Quimica {
         }
         return retorno;
     }
-     
+    
 }
